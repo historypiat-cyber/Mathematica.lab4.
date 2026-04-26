@@ -1,0 +1,5 @@
+a = 0.25;
+b = 2.25;
+h = 0.2;
+f = Exp[-2x] + x^2 -1;
+Plot[f,{x, xmin, xmax}]
